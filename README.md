@@ -1,4 +1,4 @@
-# Drawing Object Viewer
+# BlockBrowser
 
 ## Overview
 The Drawing Object Viewer is a Visual Studio project that allows users to view all objects in the current drawing. It's designed for ease of use and provides a clear overview of the elements within the drawing.
@@ -11,13 +11,13 @@ The Drawing Object Viewer is a Visual Studio project that allows users to view a
 ## Getting Started
 
 ### Prerequisites
-- Visual Studio 2019 or later
-- .NET Framework 4.7.2 or later
+- Visual Studio 2017 or later
+- ObjectARX 2019
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone 
    ```
 2. Open the project in Visual Studio.
 3. Build the solution.
@@ -31,4 +31,4 @@ The Drawing Object Viewer is a Visual Studio project that allows users to view a
 Feel free to submit issues or pull requests to enhance the functionality of the project.
 
 ## License
-This project is licensed under the MIT License.
+GNU General Public License v3.0
