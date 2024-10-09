@@ -1,6 +1,3 @@
-Sure! Here’s a simple README template for your Visual Studio project:
-
-```markdown
 # Drawing Object Viewer
 
 ## Overview
@@ -35,6 +32,3 @@ Feel free to submit issues or pull requests to enhance the functionality of the 
 
 ## License
 This project is licensed under the MIT License.
-```
-
-Feel free to modify any sections as needed!
